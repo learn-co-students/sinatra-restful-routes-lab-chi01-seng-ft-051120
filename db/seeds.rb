@@ -1,0 +1,1 @@
+Recipe.create(name: "Chocolate Chip Cookies", ingredients: "Chocolate Chips", cook_time: "40 minutes")
